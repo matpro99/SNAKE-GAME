@@ -1,0 +1,26 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: darkgreen;
+    background-color: darkseagreen;
+}
+
+.button{
+    margin-bottom: 15px;;
+}
+
+.jogo{
+    border-color: dimgray;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 5px;
+}
+
+div canvas{
+    display: flex;
+    background-color: lightblue;
+}
